@@ -1,0 +1,39 @@
+.hoja1 {
+  position: relative;
+  background: #3b3a36;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px 0px;
+}
+.hoja2 {
+  position: relative;
+  background: #b3c2bf;
+  width: 20px;
+  height: 20px;
+  border-radius: 0px 0px;
+}
+.hoja3 {
+  position: relative;
+  background: #e9ece5;
+  width: 20px;
+  height: 20px;
+  border-radius: 0px 00px;
+}
+.hoja4 {
+  position: relative;
+  background: #c0dfd9;
+  width: 20px;
+  height: 20px;
+  border-radius: 0px 0px;
+}
+
+.row {
+  width: 70px;
+  height: 70px;
+}
+
+.container2 {
+  position: fixed;
+  left: 50%;
+  top: 30%;
+}
